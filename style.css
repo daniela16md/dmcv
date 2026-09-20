@@ -1,6 +1,6 @@
 body {
     background-color: rgb(26, 132, 132);
-    font-size: 11px;
+    font-size: 9px;
     font-family: "Roboto", sans-serif;
     color: #40394a;
 }
@@ -32,7 +32,7 @@ hr {
 }
 
 p {
-    font-size: 1rem;
+    font-size: 9px;
 }
 
 .boxShadow {
@@ -42,7 +42,7 @@ p {
 .container {
     width: 100%;
     margin: 0 auto;
-    font-size: 1rem;
+    font-size: 9px;
     display: flex;
     justify-content: space-between;
 }
@@ -65,7 +65,7 @@ p {
 
 .container .Skills h2 {
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-left: -13px;
 }
 
@@ -83,7 +83,7 @@ p {
 .container .Skills .SkillBarLoad p {
     text-align: right;
     color: white;
-    font-size: 0.8rem;
+    font-size: 7px;
     margin-right: 10px;
 }
 
@@ -118,7 +118,7 @@ p {
     justify-content: center;
 }
 .footer-a {
-    margin-top: 18px;
+    margin-top: 12px;
 }
 .lang-switcher {
     text-align: center;
@@ -131,7 +131,7 @@ p {
 }
 .lang-btn {
     padding: 5px;
-    font-size: 1rem;
+    font-size: 9px;
     color: rgb(2, 75, 75);
     background-color: white;
     border: none;
@@ -167,4 +167,12 @@ p {
         display: block;
     }
 }
-
+.permis {
+    margin-bottom: O px;
+    color: rgb(2, 75, 75);;
+}
+.moreexperience {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5%;
+}
